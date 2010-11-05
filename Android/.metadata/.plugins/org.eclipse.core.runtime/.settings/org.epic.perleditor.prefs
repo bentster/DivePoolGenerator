@@ -1,0 +1,19 @@
+#Tue Jan 29 10:19:05 CET 2008
+comment2Color=0,128,0
+printMargin=true
+eclipse.preferences.version=1
+USE_TAINT_MODE=0
+sourceFolding=false
+spacesInsteadOfTabs=true
+lineNumberRuler=true
+currentLineColor=185,255,255
+SYNTAX_VALIDATION_PREFERENCE=0
+SHOW_WARNINGS=1
+keyword1Color=0,0,255
+literal1Color=0,128,255
+ENABLE_DEBUG_CONSOLE=0
+insertTabOnIndent=3
+literal2Color=128,0,0
+keyword2Color=0,0,0
+comment1Color=0,128,0
+editorTabWidth=3

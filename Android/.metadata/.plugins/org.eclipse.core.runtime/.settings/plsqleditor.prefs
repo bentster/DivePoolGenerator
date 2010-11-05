@@ -1,0 +1,16 @@
+#Fri Jan 18 12:17:37 CET 2008
+PlDocOutputDirectoryUsage=absolute
+operatorColour=0,0,255
+PlDocNameCase=neither
+plsqleditor.template.customtemplates=<?xml version\="1.0" encoding\="UTF-8"?><templates/>
+loadToDatabaseUse=loadToDatabaseDontCheck
+commentColour=0,128,0
+headerGenerationUse=headerGenerationDontCheck
+builtInFuncsColour=0,0,255
+eclipse.preferences.version=1
+keyWordColour=0,0,255
+plsqlTabWidth=3
+dbUrl=jdbc\:oracle\:thin\:@ut240.skatteetaten.no\:1521\:SID
+stringColour=255,0,0
+dbUser=dntbls
+dbPassword=dntbls

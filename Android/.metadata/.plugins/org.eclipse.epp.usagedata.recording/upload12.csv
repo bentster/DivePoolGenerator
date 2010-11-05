@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+no handler,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990768380
+no handler,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990768380
+no handler,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990768380
+no handler,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990768380
+no handler,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990768380
+no handler,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990768380
+no handler,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990768380
+no handler,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990768380
+no handler,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990768380
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990768442
+no handler,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990769563
+no handler,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990769809
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990772448
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990772853
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.delete",1288990772869
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.layout.LayoutEditor",1288990774657
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.saveAll",1288990775559
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1288990778933
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990785132
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990820995
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.selectAll",1288990821513
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.layout.LayoutEditor",1288990821750
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.selectAll",1288990822627
+error,log,,,"Argument cannot be null",1288990822950
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.paste",1288990822972
+error,log,,,"Argument cannot be null",1288990823321
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.save",1288990823333
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1288990825091
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990828483
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990831528
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990834558
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990835583
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.layout.LayoutEditor",1288990837681
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1288990839075
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.resources.ResourcesEditor",1288990839826
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1288990844007
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990847830
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990851255
+opened,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1288990857912
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1288990857990
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1288990860492
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1288990862269
+executed,command,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.jdt.ui.edit.text.java.correction.assist.proposals",1288990866437
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.save",1288990868597
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990871454
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990872116
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1288990873216
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1288990874591
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1288990878956
+error,log,,,"Argument cannot be null",1288990881776
+activated,editor,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.editors.layout.LayoutEditor",1288990881925
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990889388
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990891720
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990892183
+error,log,,,"Argument cannot be null",1288990892183
+error,log,,,"Argument cannot be null",1288990892198
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.text.contentAssist.proposals",1288990894080
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990895806
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990896052
+error,log,,,"Argument cannot be null",1288990896056
+error,log,,,"Argument cannot be null",1288990896076
+error,log,,,"Argument cannot be null",1288990897422
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.undo",1288990897439
+error,log,,,"Argument cannot be null",1288990898413
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.undo",1288990898429
+error,log,,,"Argument cannot be null",1288990899070
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.undo",1288990899089
+error,log,,,"Argument cannot be null",1288990899503
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.undo",1288990899519
+error,log,,,"Argument cannot be null",1288990899858
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.undo",1288990899873
+error,log,,,"Argument cannot be null",1288990900395
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.save",1288990900414
+error,log,,,"Argument cannot be null",1288990900447
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.1.r352_v20100105,"org.eclipse.ui.edit.text.copyLineUp",1288990900484
+error,log,,,"Argument cannot be null",1288990901458
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.undo",1288990901474
+error,log,,,"Argument cannot be null",1288990901903
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.undo",1288990901919
+error,log,,,"Argument cannot be null",1288990902299
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.save",1288990902317
+error,log,,,"Argument cannot be null",1288990908774
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.edit.undo",1288990908791
+error,log,,,"Argument cannot be null",1288990910630
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.save",1288990910657
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.1.r352_v20100105,"org.eclipse.ui.edit.findNext",1288990914187
+error,log,,,"Argument cannot be null",1288990914296
+executed,command,org.eclipse.ui.workbench.texteditor,3.5.1.r352_v20100105,"org.eclipse.ui.edit.text.copyLineUp",1288990914311
+error,log,,,"Argument cannot be null",1288990915528
+executed,command,org.eclipse.ui,3.5.2.M20100120-0800,"org.eclipse.ui.file.save",1288990915560
+activated,view,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views.ContentOutline",1288990927755
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990928476
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990928488
+activated,view,org.eclipse.mylyn.tasks.ui,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.tasks.ui.views.tasks",1288990933212
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990933420
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990938258
+executed,command,org.eclipse.mylyn.tasks.ui,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.tasks.ui.command.addTaskRepository",1288990938266
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1288990946773
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1288990947025
+activated,view,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.PackageExplorer",1288990948806
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1288990956322
+activated,view,org.eclipse.ui.ide,3.5.2.M20100113-0800,"org.eclipse.ui.views.ProblemView",1288990957789
+activated,editor,org.eclipse.jdt.ui,3.5.2.r352_v20100106-0800,"org.eclipse.jdt.ui.CompilationUnitEditor",1288990959375
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990967353
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990968340
+deactivated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990977352
+activated,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990978052
+closed,workbench,org.eclipse.ui.workbench,3.5.2.M20100113-0800,"",1288990978199
+stopped,bundle,org.eclipse.jst.ws.axis.creation.ui,1.0.406.v200903031852,"org.eclipse.jst.ws.axis.creation.ui",1288990978466
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.ui,1.0.405.v200901261650,"org.eclipse.jst.ws.axis.consumption.ui",1288990978467
+stopped,bundle,org.eclipse.jst.ws.axis.consumption.core,1.0.306.v200810082309,"org.eclipse.jst.ws.axis.consumption.core",1288990978467
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.ui,1.0.103.v200807162242,"org.eclipse.jst.ws.axis2.creation.ui",1288990978468
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.ui,1.0.102.v200807232000,"org.eclipse.jst.ws.axis2.consumption.ui",1288990978468
+stopped,bundle,org.eclipse.jst.ws.axis2.creation.core,1.0.105.v200901220134,"org.eclipse.jst.ws.axis2.creation.core",1288990978470
+stopped,bundle,org.eclipse.jst.ws.axis2.consumption.core,1.0.104.v200810151442,"org.eclipse.jst.ws.axis2.consumption.core",1288990978471
+stopped,bundle,org.eclipse.jst.ws.axis2.ui,1.0.302.v200905260749,"org.eclipse.jst.ws.axis2.ui",1288990978471
+stopped,bundle,org.eclipse.jst.ws.axis2.core,1.0.104.v200810151442,"org.eclipse.jst.ws.axis2.core",1288990978471
+stopped,bundle,org.eclipse.jst.ws.creation.ui,1.0.409.v200911241856,"org.eclipse.jst.ws.creation.ui",1288990978472
+stopped,bundle,org.eclipse.jst.ws.consumption.ui,1.1.106.v200911241851,"org.eclipse.jst.ws.consumption.ui",1288990978473
+stopped,bundle,org.eclipse.jst.ws.consumption,1.0.408.v200911241817,"org.eclipse.jst.ws.consumption",1288990978474
+stopped,bundle,org.eclipse.jst.ws.uddiregistry,1.0.400.v200901261650,"org.eclipse.jst.ws.uddiregistry",1288990978474
+stopped,bundle,org.eclipse.jst.ws.ui,1.0.402.v200903111822,"org.eclipse.jst.ws.ui",1288990978475
+stopped,bundle,org.eclipse.jst.ws,1.0.407.v200905191120,"org.eclipse.jst.ws",1288990978475
+stopped,bundle,org.eclipse.wst.ws.explorer,1.0.408.v200911241806,"org.eclipse.wst.ws.explorer",1288990978477
+stopped,bundle,org.eclipse.wst.wsdl.ui,1.2.202.v200904271449,"org.eclipse.wst.wsdl.ui",1288990978478
+stopped,bundle,org.eclipse.wst.ws.ui,1.1.100.v200903112221,"org.eclipse.wst.ws.ui",1288990978479
+stopped,bundle,org.eclipse.wst.wsi.ui,1.0.500.v200901141851,"org.eclipse.wst.wsi.ui",1288990978479
+stopped,bundle,org.eclipse.wst.wsi,1.0.305.v200902181431,"org.eclipse.wst.wsi",1288990978480
+stopped,bundle,org.eclipse.wst.ws,1.1.103.v200903111822,"org.eclipse.wst.ws",1288990978480
+stopped,bundle,org.eclipse.jst.j2ee.webservice.ui,1.1.300.v200902052230,"org.eclipse.jst.j2ee.webservice.ui",1288990978480
+stopped,bundle,org.eclipse.jst.j2ee.webservice,1.1.300.v200901220600,"org.eclipse.jst.j2ee.webservice",1288990978480
+stopped,bundle,org.eclipse.wst.ws.parser,1.0.402.v200901220107,"org.eclipse.wst.ws.parser",1288990978480
+stopped,bundle,commonj.sdo,2.1.1.v200905221342,"commonj.sdo",1288990978481
+stopped,bundle,org.eclipse.datatools.enablement.oda.ws.ui,1.2.2.v201001260400,"org.eclipse.datatools.enablement.oda.ws.ui",1288990978481
+stopped,bundle,org.eclipse.datatools.enablement.oda.ws,1.2.2.v201001131420,"org.eclipse.datatools.enablement.oda.ws",1288990978482
+stopped,bundle,org.eclipse.wst.wsdl,1.2.2.v200911111930,"org.eclipse.wst.wsdl",1288990978482
+stopped,bundle,org.eclipse.wst.wsdl.validation,1.1.402.v200911251542,"org.eclipse.wst.wsdl.validation",1288990978482
+stopped,bundle,org.eclipse.wst.xsl.jaxp.debug.ui,1.0.0.v200904240436,"org.eclipse.wst.xsl.jaxp.debug.ui",1288990978482
+stopped,bundle,org.eclipse.wst.xsl.ui,1.0.100.v200907172129,"org.eclipse.wst.xsl.ui",1288990978483
+stopped,bundle,org.eclipse.wst.xml.xpath.ui,1.0.0.v200904240436,"org.eclipse.wst.xml.xpath.ui",1288990978484
+stopped,bundle,org.eclipse.wst.xsl.debug.ui,1.0.0.v200904240436,"org.eclipse.wst.xsl.debug.ui",1288990978484
+stopped,bundle,org.eclipse.wst.xsl.jaxp.launching,1.0.0.v200904240436,"org.eclipse.wst.xsl.jaxp.launching",1288990978484
+stopped,bundle,org.eclipse.wst.xsl.launching,1.0.0.v200904241348,"org.eclipse.wst.xsl.launching",1288990978484
+stopped,bundle,org.eclipse.wst.xsl.core,1.0.1.v200908101420,"org.eclipse.wst.xsl.core",1288990978484
+stopped,bundle,org.eclipse.datatools.enablement.oda.xml.ui,1.2.1.v201001191820,"org.eclipse.datatools.enablement.oda.xml.ui",1288990978484
+stopped,bundle,org.eclipse.datatools.enablement.oda.xml,1.2.1.v201001151620,"org.eclipse.datatools.enablement.oda.xml",1288990978484
+stopped,bundle,org.eclipse.jst.jsf.apache.trinidad.tagsupport,1.1.0.v20090525,"org.eclipse.jst.jsf.apache.trinidad.tagsupport",1288990978484
+stopped,bundle,org.eclipse.jst.jsf.facesconfig.ui,1.1.6.v20100203,"org.eclipse.jst.jsf.facesconfig.ui",1288990978485
+stopped,bundle,org.eclipse.jst.jsf.ui,1.2.3.v201001271707,"org.eclipse.jst.jsf.ui",1288990978485
+stopped,bundle,org.eclipse.jst.pagedesigner.jsf.ui,1.1.4.v20100203,"org.eclipse.jst.pagedesigner.jsf.ui",1288990978486
+stopped,bundle,org.eclipse.jst.pagedesigner,1.2.3.v20100211,"org.eclipse.jst.pagedesigner",1288990978487
+stopped,bundle,org.eclipse.jst.jsf.core,1.2.5.v201001271707,"org.eclipse.jst.jsf.core",1288990978487
+stopped,bundle,org.eclipse.jst.jsf.common.ui,1.1.1.v20081209,"org.eclipse.jst.jsf.common.ui",1288990978488
+stopped,bundle,org.eclipse.jst.jsf.standard.tagsupport,1.1.205.v201002101327,"org.eclipse.jst.jsf.standard.tagsupport",1288990978488
+stopped,bundle,org.eclipse.jst.pagedesigner.jsp.core,1.1.3.v201002111131,"org.eclipse.jst.pagedesigner.jsp.core",1288990978489
+stopped,bundle,org.eclipse.jst.jsf.common,1.1.9.v201001271707,"org.eclipse.jst.jsf.common",1288990978489
+stopped,bundle,org.eclipse.wst.jsdt.web.support.jsp,1.0.200.v200904140255,"org.eclipse.wst.jsdt.web.support.jsp",1288990978489
+stopped,bundle,org.eclipse.jst.jsp.ui,1.1.401.v200908111935,"org.eclipse.jst.jsp.ui",1288990978489
+stopped,bundle,org.eclipse.jst.jsp.core,1.2.204.v201001270045,"org.eclipse.jst.jsp.core",1288990978524
+stopped,bundle,org.eclipse.wst.jsdt.web.ui,1.0.201.v2010012803,"org.eclipse.wst.jsdt.web.ui",1288990978524
+stopped,bundle,org.eclipse.jpt.eclipselink.ui,1.2.0.v200905310000,"org.eclipse.jpt.eclipselink.ui",1288990978525
+stopped,bundle,org.eclipse.jpt.ui,2.2.2.v200911250220,"org.eclipse.jpt.ui",1288990978527
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.ui,1.1.102.v200805140020,"org.eclipse.jst.j2ee.ejb.annotations.ui",1288990978527
+stopped,bundle,org.eclipse.jst.ejb.ui,1.1.301.v200908131325,"org.eclipse.jst.ejb.ui",1288990978528
+stopped,bundle,org.eclipse.jst.servlet.ui,1.1.301.v200908101600,"org.eclipse.jst.servlet.ui",1288990978528
+stopped,bundle,org.eclipse.jst.jee.ui,1.0.201.v201002021208,"org.eclipse.jst.jee.ui",1288990978528
+stopped,bundle,org.eclipse.jst.j2ee.navigator.ui,1.1.301.v201001252130,"org.eclipse.jst.j2ee.navigator.ui",1288990978528
+stopped,bundle,org.eclipse.jst.j2ee.jca.ui,1.1.300.v200809052300,"org.eclipse.jst.j2ee.jca.ui",1288990978529
+stopped,bundle,org.eclipse.jst.j2ee.ui,1.1.301.v201001252130,"org.eclipse.jst.j2ee.ui",1288990978529
+stopped,bundle,org.eclipse.wst.web.ui,1.1.301.v201001252130,"org.eclipse.wst.web.ui",1288990978529
+stopped,bundle,org.eclipse.wst.html.ui,1.0.401.v200908111935,"org.eclipse.wst.html.ui",1288990978529
+stopped,bundle,org.eclipse.wst.css.ui,1.0.401.v200907171457,"org.eclipse.wst.css.ui",1288990978529
+stopped,bundle,org.eclipse.wst.jsdt.web.core,1.0.201.v201001221931,"org.eclipse.wst.jsdt.web.core",1288990978529
+stopped,bundle,org.eclipse.wst.html.core,1.1.300.v200903120608,"org.eclipse.wst.html.core",1288990978530
+stopped,bundle,org.eclipse.wst.css.core,1.1.301.v200910161432,"org.eclipse.wst.css.core",1288990978531
+stopped,bundle,org.eclipse.jpt.eclipselink.core,1.2.0.v200905310000,"org.eclipse.jpt.eclipselink.core",1288990978532
+stopped,bundle,org.eclipse.jpt.core,2.2.1.v200908270220,"org.eclipse.jpt.core",1288990978532
+stopped,bundle,org.eclipse.jst.j2ee.xdoclet.runtime,1.1.102.v200805140135,"org.eclipse.jst.j2ee.xdoclet.runtime",1288990978532
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.xdoclet,1.2.0.v200805140020,"org.eclipse.jst.j2ee.ejb.annotations.xdoclet",1288990978533
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotations.emitter,1.1.102.v200805140135,"org.eclipse.jst.j2ee.ejb.annotations.emitter",1288990978533
+stopped,bundle,org.eclipse.jst.j2ee.ejb.annotation.model,1.1.102.v200805140020,"org.eclipse.jst.j2ee.ejb.annotation.model",1288990978534
+stopped,bundle,org.eclipse.jst.jee.ejb,1.0.201.v201002021057,"org.eclipse.jst.jee.ejb",1288990978534
+stopped,bundle,org.eclipse.jst.j2ee.ejb,1.1.301.v201001252130,"org.eclipse.jst.j2ee.ejb",1288990978534
+stopped,bundle,org.eclipse.jst.jee.web,1.0.201.v201002031231,"org.eclipse.jst.jee.web",1288990978535
+stopped,bundle,org.eclipse.jst.j2ee.web,1.1.301.v200911302230,"org.eclipse.jst.j2ee.web",1288990978535
+stopped,bundle,org.eclipse.jst.jee,1.0.201.v201002021055,"org.eclipse.jst.jee",1288990978535
+stopped,bundle,org.eclipse.jst.j2ee.jca,1.1.301.v201001252130,"org.eclipse.jst.j2ee.jca",1288990978535
+stopped,bundle,org.eclipse.jst.jsf.facesconfig,1.1.3.v20090902,"org.eclipse.jst.jsf.facesconfig",1288990978537
+stopped,bundle,org.eclipse.jst.j2ee,1.1.301.v201001272230,"org.eclipse.jst.j2ee",1288990978537
+stopped,bundle,org.eclipse.jst.j2ee.core,1.1.301.v200911302230,"org.eclipse.jst.j2ee.core",1288990978537
+stopped,bundle,org.eclipse.wst.dtd.ui,1.0.400.v200904300717,"org.eclipse.wst.dtd.ui",1288990978537
+stopped,bundle,org.eclipse.wst.dtd.core,1.1.300.v200904181727,"org.eclipse.wst.dtd.core",1288990978537
+stopped,bundle,org.eclipse.wst.xsd.ui,1.2.204.v200909021537,"org.eclipse.wst.xsd.ui",1288990978539
+stopped,bundle,com.android.ide.eclipse.adt,0.9.9.v201009221407-60953,"com.android.ide.eclipse.adt",1288990978539
+stopped,bundle,org.eclipse.wst.xml.ui,1.1.2.v201001222130,"org.eclipse.wst.xml.ui",1288990978539
+stopped,bundle,org.eclipse.wst.xsd.core,1.1.401.v200903020335,"org.eclipse.wst.xsd.core",1288990978539
+stopped,bundle,org.eclipse.wst.xml.core,1.1.402.v201001222130,"org.eclipse.wst.xml.core",1288990978539
+stopped,bundle,org.eclipse.wst.xml.xpath2.processor,1.0.0.v200905300355,"org.eclipse.wst.xml.xpath2.processor",1288990978539
+stopped,bundle,org.eclipse.help.webapp,3.4.1.v20091009_35x,"org.eclipse.help.webapp",1288990978540
+stopped,bundle,org.eclipse.equinox.jsp.jasper.registry,1.0.100.v20090520-1800,"org.eclipse.equinox.jsp.jasper.registry",1288990978541
+stopped,bundle,org.eclipse.equinox.jsp.jasper,1.0.200.v20090520-1800,"org.eclipse.equinox.jsp.jasper",1288990978541
+stopped,bundle,org.eclipse.datatools.enablement.hsqldb.ui,1.0.0.v200906020900,"org.eclipse.datatools.enablement.hsqldb.ui",1288990978542
+stopped,bundle,org.eclipse.datatools.enablement.ingres.ui,1.0.0.v200906111150,"org.eclipse.datatools.enablement.ingres.ui",1288990978542
+stopped,bundle,org.eclipse.datatools.enablement.postgresql.ui,1.0.0.v200906020900,"org.eclipse.datatools.enablement.postgresql.ui",1288990978543
+stopped,bundle,org.eclipse.datatools.enablement.sqlite.ui,1.0.0.v200906020900,"org.eclipse.datatools.enablement.sqlite.ui",1288990978543
+stopped,bundle,org.eclipse.datatools.connectivity.db.generic.ui,1.0.1.v200906020900,"org.eclipse.datatools.connectivity.db.generic.ui",1288990978543
+stopped,bundle,org.eclipse.datatools.connectivity.apache.derby.ui,1.0.1.v200906020900,"org.eclipse.datatools.connectivity.apache.derby.ui",1288990978544
+stopped,bundle,org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples,2.5.0.200810071,"org.eclipse.datatools.enablement.sybase.asa.schemaobjecteditor.examples",1288990978545
+stopped,bundle,org.eclipse.datatools.enablement.sybase.asa.ui,1.0.1.v200906111150,"org.eclipse.datatools.enablement.sybase.asa.ui",1288990978546
+stopped,bundle,org.eclipse.datatools.enablement.sybase.ase.ui,1.0.1.v200906020900,"org.eclipse.datatools.enablement.sybase.ase.ui",1288990978546
+stopped,bundle,org.eclipse.datatools.enablement.sybase.ui,1.0.0.v200906090458,"org.eclipse.datatools.enablement.sybase.ui",1288990978547
+stopped,bundle,org.eclipse.datatools.sqltools.data.ui,1.1.2.v200912080845,"org.eclipse.datatools.sqltools.data.ui",1288990978547
+stopped,bundle,org.eclipse.datatools.connectivity.sqm.server.ui,1.1.100.v200910270503,"org.eclipse.datatools.connectivity.sqm.server.ui",1288990978548
+stopped,bundle,org.eclipse.datatools.sqltools.ddlgen.ui,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.ddlgen.ui",1288990978548
+stopped,bundle,org.eclipse.datatools.sqltools.db.derby.ui,1.0.0.v200906020900,"org.eclipse.datatools.sqltools.db.derby.ui",1288990978549
+stopped,bundle,org.eclipse.datatools.sqltools.db.generic.ui,1.0.0.v200906020900,"org.eclipse.datatools.sqltools.db.generic.ui",1288990978549
+stopped,bundle,org.eclipse.datatools.sqltools.debugger.core.ui,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.debugger.core.ui",1288990978550
+stopped,bundle,org.eclipse.datatools.sqltools.routineeditor.ui,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.routineeditor.ui",1288990978550
+stopped,bundle,org.eclipse.datatools.sqltools.sqlbuilder,1.0.0.v201001200600,"org.eclipse.datatools.sqltools.sqlbuilder",1288990978551
+stopped,bundle,org.eclipse.datatools.sqltools.debugger.core,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.debugger.core",1288990978551
+stopped,bundle,org.eclipse.datatools.sqltools.schemaobjecteditor.ui.pages,1.1.0.200810071,"org.eclipse.datatools.sqltools.schemaobjecteditor.ui.pages",1288990978552
+stopped,bundle,org.eclipse.datatools.sqltools.schemaobjecteditor.ui,1.1.0.200810071,"org.eclipse.datatools.sqltools.schemaobjecteditor.ui",1288990978553
+stopped,bundle,org.eclipse.datatools.sqltools.sqlscrapbook,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.sqlscrapbook",1288990978553
+stopped,bundle,org.eclipse.datatools.sqltools.sqleditor,1.0.1.v200912241345,"org.eclipse.datatools.sqltools.sqleditor",1288990978554
+stopped,bundle,org.eclipse.datatools.sqltools.editor.core.ui,1.0.0.v201001150815,"org.eclipse.datatools.sqltools.editor.core.ui",1288990978555
+stopped,bundle,org.eclipse.datatools.sqltools.tabledataeditor,1.0.0.v200906022302,"org.eclipse.datatools.sqltools.tabledataeditor",1288990978555
+stopped,bundle,org.eclipse.datatools.connectivity.sqm.core.ui,1.1.100.v200910270525,"org.eclipse.datatools.connectivity.sqm.core.ui",1288990978556
+stopped,bundle,org.eclipse.datatools.connectivity.ui.dse,1.1.3.v201001270323,"org.eclipse.datatools.connectivity.ui.dse",1288990978557
+stopped,bundle,org.eclipse.pde.ua.ui,1.0.0.v20090511,"org.eclipse.pde.ua.ui",1288990978558
+stopped,bundle,org.eclipse.datatools.connectivity.oda.template.ui,3.2.0.v200906020553,"org.eclipse.datatools.connectivity.oda.template.ui",1288990978558
+stopped,bundle,org.eclipse.pde.api.tools.ui,1.0.101.v20090820,"org.eclipse.pde.api.tools.ui",1288990978558
+stopped,bundle,org.eclipse.pde.ds.ui,1.0.0.v20100209-maintenance,"org.eclipse.pde.ds.ui",1288990978559
+stopped,bundle,org.eclipse.pde.runtime,3.4.100.v20090731,"org.eclipse.pde.runtime",1288990978559
+stopped,bundle,org.eclipse.pde.ui.templates,3.4.100.v20090527,"org.eclipse.pde.ui.templates",1288990978560
+stopped,bundle,org.eclipse.pde.ui,3.5.1.v201001121200,"org.eclipse.pde.ui",1288990978560
+stopped,bundle,org.eclipse.ui.cheatsheets,3.3.200.v20090526,"org.eclipse.ui.cheatsheets",1288990978561
+stopped,bundle,org.eclipse.help.ui,3.4.1.v20090819_35x,"org.eclipse.help.ui",1288990978561
+stopped,bundle,org.eclipse.epp.usagedata.ui,1.1.1.R201001291118,"org.eclipse.epp.usagedata.ui",1288990978562
+stopped,bundle,org.eclipse.ui.intro.universal,3.2.300.v20090526,"org.eclipse.ui.intro.universal",1288990978563
+stopped,bundle,org.eclipse.wtp.epp.package.jee.intro,1.2.0.20090617-0522,"org.eclipse.wtp.epp.package.jee.intro",1288990978563
+stopped,bundle,org.eclipse.ui.intro,3.3.2.v20100111_35x,"org.eclipse.ui.intro",1288990978564
+stopped,bundle,org.eclipse.help.base,3.4.0.v201002111343,"org.eclipse.help.base",1288990978564
+stopped,bundle,org.eclipse.equinox.http.jetty,2.0.0.v20090520-1800,"org.eclipse.equinox.http.jetty",1288990978564
+stopped,bundle,org.eclipse.wst.server.preview,1.1.0.v20090113,"org.eclipse.wst.server.preview",1288990978565
+stopped,bundle,org.eclipse.jst.server.generic.jboss,1.6.1.v200904151730,"org.eclipse.jst.server.generic.jboss",1288990978565
+stopped,bundle,org.eclipse.jst.server.generic.jonas,1.5.205.v200805140145,"org.eclipse.jst.server.generic.jonas",1288990978566
+stopped,bundle,org.eclipse.jst.server.generic.oc4j,1.5.206.v20090812,"org.eclipse.jst.server.generic.oc4j",1288990978567
+stopped,bundle,org.eclipse.jst.server.websphere.core,1.0.302.v20080620,"org.eclipse.jst.server.websphere.core",1288990978567
+stopped,bundle,org.eclipse.jst.server.generic.ui,1.0.405.v200905022002,"org.eclipse.jst.server.generic.ui",1288990978568
+stopped,bundle,org.eclipse.jst.server.generic.core,1.0.506.v20090817,"org.eclipse.jst.server.generic.core",1288990978569

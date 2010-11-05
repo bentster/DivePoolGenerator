@@ -1,0 +1,8 @@
+#Mon Jan 15 13:33:00 CET 2007
+useAnnotationsPrefPage=true
+spacesForTabs=true
+org.eclipse.cdt.ui.text.templates.custom=<?xml version\="1.0" encoding\="UTF-8"?><templates/>
+hoverModifierMasks=org.eclipse.cdt.ui.BestMatchHover;0;org.eclipse.cdt.ui.CSourceHover;262144;org.eclipse.cdt.debug.internal.ui.editors.DebugTextHover;0;org.eclipse.cdt.ui.CDocHover;0;org.eclipse.cdt.ui.AnnotationHover;0;
+eclipse.preferences.version=1
+hoverModifiers=org.eclipse.cdt.ui.BestMatchHover;0;org.eclipse.cdt.ui.CSourceHover;Ctrl;org.eclipse.cdt.debug.internal.ui.editors.DebugTextHover;\!0;org.eclipse.cdt.ui.CDocHover;\!0;org.eclipse.cdt.ui.AnnotationHover;\!0;
+useQuickDiffPrefPage=true

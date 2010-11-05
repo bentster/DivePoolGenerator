@@ -1,0 +1,10 @@
+package com.divepoolgenerator;
+
+import java.util.List;
+
+public class MoveRepository {
+
+	public List<Move> getMoves(){
+		
+	}
+}

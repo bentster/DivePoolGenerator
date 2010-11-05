@@ -1,0 +1,24 @@
+package com.divepoolgenerator;
+
+public class Move {
+
+	private String id;
+	
+	public Move(String id) {
+	
+		this.setId(id);		
+	}
+	
+	public void setId(String id) {
+		this.id = id;
+	}
+
+	public String getId() {
+		return id;
+	}
+
+	
+	
+	
+	
+}

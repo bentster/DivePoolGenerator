@@ -1,0 +1,8 @@
+#Fri Aug 14 09:26:23 CEST 2009
+AbstractTextEditor.Color.SelectionBackground=0,128,255
+printMargin=true
+eclipse.preferences.version=1
+AbstractTextEditor.Color.SelectionBackground.SystemDefault=false
+overviewRuler_migration=migrated_3.1
+lineNumberRuler=true
+occurrenceIndicationColor=185,255,185
